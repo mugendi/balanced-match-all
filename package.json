@@ -1,0 +1,30 @@
+{
+  "name": "balanced-match-all",
+  "version": "0.1.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "balanced-match": "^2.0.0"
+  },
+  "keywords": [
+    "match",
+    "regexp",
+    "test",
+    "balanced",
+    "parse"
+  ],
+  "description": "Recursively match balanced string pairs, like { and } or <b> and </b> using balanced-match and add level information to the matches.",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Anthony Mugendi <ngurumugz@gmail.com>",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mugendi/balanced-match-all.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mugendi/balanced-match-all/issues"
+  },
+  "homepage": "https://github.com/mugendi/balanced-match-all#readme"
+}
